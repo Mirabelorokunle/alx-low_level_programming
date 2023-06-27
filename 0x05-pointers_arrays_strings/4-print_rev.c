@@ -1,19 +1,25 @@
-#include <stdio.h>
 #include "main.h"
 /**
- * print_rev - function
- * @s: ptr
+ * print_rev - imprime en reversa
+ * @s: string
  * return: 0
  */
 void print_rev(char *s)
 {
-	char *ns = s;
-	int cnt = 0, ind;
+int longi = 0;
+int o;
 
-	while (*s)
-	{
-		cnt++;
-		s++;
-	}
+while (*s != '\0')
+{
+longi++;
+s++;
+}
+s--;
+for (o = longi; o > 0; o--)
+{
+_putchar(*s);
+s--;
+}
 
-	for (ind = cnt - 1
+_putchar('\n');
+}
