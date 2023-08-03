@@ -1,10 +1,10 @@
 Toggle navigation
 0x10. C - Variadic functions
 C
- By: Julien Barbier
- Weight: 1
- Project over - took place from Mar 23, 2023 6:00 AM to Mar 24, 2023 6:00 AM
- An auto review will be launched at the deadline
+	By: Julien Barbier
+	Weight: 1
+	Project over - took place from Mar 23, 2023 6:00 AM to Mar 24, 2023 6:00 AM
+	An auto review will be launched at the deadline
 In a nutshell…
 Auto QA review: 32.0/33 mandatory
 Altogether:  96.97%
